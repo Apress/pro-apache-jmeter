@@ -1,0 +1,2 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,grpThreads,allThreads,Latency,IdleTime
+1494876605301,293,HTTP Request,200,OK,Thread Group 1-1,text,true,,17239,1,1,292,0

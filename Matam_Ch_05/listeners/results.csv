@@ -1,0 +1,57 @@
+2017/05/15 12:30:03 INFO  - jmeter.util.JMeterUtils: Setting Locale to en_US 
+2017/05/15 12:30:04 INFO  - jmeter.JMeter: Loading user properties from: C:\apache-jmeter-3.0\bin\user.properties 
+2017/05/15 12:30:04 INFO  - jmeter.JMeter: Loading system properties from: C:\apache-jmeter-3.0\bin\system.properties 
+2017/05/15 12:30:04 INFO  - jmeter.JMeter: Copyright (c) 1998-2016 The Apache Software Foundation 
+2017/05/15 12:30:04 INFO  - jmeter.JMeter: Version 3.0 r1743807 
+2017/05/15 12:30:04 INFO  - jmeter.JMeter: java.version=1.8.0_111 
+2017/05/15 12:30:04 INFO  - jmeter.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM 
+2017/05/15 12:30:04 INFO  - jmeter.JMeter: os.name=Windows 7 
+2017/05/15 12:30:04 INFO  - jmeter.JMeter: os.arch=amd64 
+2017/05/15 12:30:04 INFO  - jmeter.JMeter: os.version=6.1 
+2017/05/15 12:30:04 INFO  - jmeter.JMeter: file.encoding=Cp1252 
+2017/05/15 12:30:04 INFO  - jmeter.JMeter: Max memory     =523763712 
+2017/05/15 12:30:04 INFO  - jmeter.JMeter: Available Processors =4 
+2017/05/15 12:30:04 INFO  - jmeter.JMeter: Default Locale=English (United States) 
+2017/05/15 12:30:04 INFO  - jmeter.JMeter: JMeter  Locale=English (United States) 
+2017/05/15 12:30:04 INFO  - jmeter.JMeter: JMeterHome=C:\apache-jmeter-3.0 
+2017/05/15 12:30:04 INFO  - jmeter.JMeter: user.dir  =C:\github\jmeter-test-scripts\listeners 
+2017/05/15 12:30:04 INFO  - jmeter.JMeter: PWD       =C:\github\jmeter-test-scripts\listeners 
+2017/05/15 12:30:04 INFO  - jmeter.JMeter: IP: 10.20.16.226 Name: msys-PC FullName: msys-PC.nimblestorage.com 
+2017/05/15 12:30:04 INFO  - jmeter.services.FileServer: Default base='C:\github\jmeter-test-scripts\listeners' 
+2017/05/15 12:30:04 INFO  - jmeter.services.FileServer: Set new base='C:\github\jmeter-test-scripts\listeners' 
+2017/05/15 12:30:04 INFO  - jmeter.save.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2 
+2017/05/15 12:30:04 INFO  - jmeter.save.SaveService: Using SaveService properties file encoding UTF-8 
+2017/05/15 12:30:04 INFO  - jmeter.save.SaveService: Using SaveService properties version 2.9 
+2017/05/15 12:30:04 INFO  - jmeter.save.SaveService: All converter versions present and correct 
+2017/05/15 12:30:04 INFO  - jmeter.save.SaveService: Loading file: ViewResultsInTableTestPlan.jmx 
+2017/05/15 12:30:04 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser 
+2017/05/15 12:30:04 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser 
+2017/05/15 12:30:04 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser 
+2017/05/15 12:30:04 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser 
+2017/05/15 12:30:04 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser 
+2017/05/15 12:30:04 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser 
+2017/05/15 12:30:04 INFO  - jmeter.JMeter: Creating summariser <summary> 
+2017/05/15 12:30:04 INFO  - jmeter.engine.StandardJMeterEngine: Running the test! 
+2017/05/15 12:30:04 INFO  - jmeter.samplers.SampleEvent: List of sample_variables: [] 
+2017/05/15 12:30:04 INFO  - jmeter.samplers.SampleEvent: List of sample_variables: [] 
+2017/05/15 12:30:04 INFO  - jmeter.engine.util.CompoundVariable: Note: Function class names must contain the string: '.functions.' 
+2017/05/15 12:30:04 INFO  - jmeter.engine.util.CompoundVariable: Note: Function class names must not contain the string: '.gui.' 
+2017/05/15 12:30:05 INFO  - jmeter.JMeter: Running test (1494876605000) 
+2017/05/15 12:30:05 INFO  - jmeter.engine.StandardJMeterEngine: Starting ThreadGroup: 1 : Thread Group 
+2017/05/15 12:30:05 INFO  - jmeter.engine.StandardJMeterEngine: Starting 1 threads for group Thread Group. 
+2017/05/15 12:30:05 INFO  - jmeter.engine.StandardJMeterEngine: Thread will continue on error 
+2017/05/15 12:30:05 INFO  - jmeter.threads.ThreadGroup: Starting thread group number 1 threads 1 ramp-up 1 perThread 1000.0 delayedStart=false 
+2017/05/15 12:30:05 INFO  - jmeter.threads.ThreadGroup: Started thread group number 1 
+2017/05/15 12:30:05 INFO  - jmeter.engine.StandardJMeterEngine: All thread groups have been started 
+2017/05/15 12:30:05 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-1 
+2017/05/15 12:30:05 INFO  - jmeter.protocol.http.sampler.HTTPHCAbstractImpl: Local host = msys-PC 
+2017/05/15 12:30:05 INFO  - jmeter.protocol.http.sampler.HTTPHC4Impl: HTTP request retry count = 0 
+2017/05/15 12:30:05 INFO  - jmeter.samplers.SampleResult: Note: Sample TimeStamps are START times 
+2017/05/15 12:30:05 INFO  - jmeter.samplers.SampleResult: sampleresult.default.encoding is set to ISO-8859-1 
+2017/05/15 12:30:05 INFO  - jmeter.samplers.SampleResult: sampleresult.useNanoTime=true 
+2017/05/15 12:30:05 INFO  - jmeter.samplers.SampleResult: sampleresult.nanoThreadSleep=5000 
+2017/05/15 12:30:05 INFO  - jmeter.reporters.Summariser: summary +      1 in 00:00:01 =    1.7/s Avg:   293 Min:   293 Max:   293 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0 
+2017/05/15 12:30:05 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-1 
+2017/05/15 12:30:05 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-1 
+2017/05/15 12:30:05 INFO  - jmeter.engine.StandardJMeterEngine: Notifying test listeners of end of test 
+2017/05/15 12:30:05 INFO  - jmeter.reporters.Summariser: summary =      1 in 00:00:01 =    1.6/s Avg:   293 Min:   293 Max:   293 Err:     0 (0.00%) 
